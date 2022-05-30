@@ -13,7 +13,7 @@ actionText: Розпочати →
 actionLink: /intro/
 
 
-footer: MIT | Copyright © 2021 Andrey Boldak
+footer: MIT | Copyright © 2022
 ---
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
