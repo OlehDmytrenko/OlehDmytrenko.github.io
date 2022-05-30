@@ -5,6 +5,16 @@ You can use the [editor on GitHub](https://github.com/OlehDmytrenko/OlehDmytrenk
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+---
+home: true
+
+actionText: Розпочати →
+
+actionLink: /intro/
+
+
+footer: MIT | Copyright © 2021 Andrey Boldak
+---
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
